@@ -42,6 +42,5 @@ Data: Retail sales (2011–2016) with Date, Customer Age/Group, Gender, Country/
 
 Created by Mohamud Sheikh Ali
 
-🌐 LinkedIn
-
-📂 Portfolio
+🌐 
+https://www.linkedin.com/in/mohamud-sheikh-ali-45b284276/?trk=PROFILE_DROP_DOWN
