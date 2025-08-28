@@ -38,9 +38,19 @@ Techniques: Table calculations (RUNNING_SUM, TOTAL, LOOKUP), dual-axis charts, r
 
 Data: Retail sales (2011–2016) with Date, Customer Age/Group, Gender, Country/State, Category/Sub-Category, Product, Quantity, Unit Cost/Price, Profit, Revenue
 
+## 📂 Download the Dashboard
+
+You can download the packaged Tableau workbook here:  
+👉 [tableau_sales_dashboard.twbx](./tableau_sales_dashboard.twbx)
+
+
+> Open the file in **Tableau Desktop** to explore the dashboard.
+> 🔗 [View Interactive Dashboard on Tableau Public](https://public.tableau.com/app/profile/mohamud.ali3325/viz/TableauSalesDashbord/GlobalSuperstoreSalesProfitDashboard20112016_)
+
+
 👤 Author
 
 Created by Mohamud Sheikh Ali
 
-🌐 
-https://www.linkedin.com/in/mohamud-sheikh-ali-45b284276/?trk=PROFILE_DROP_DOWN
+🌐 www.linkedin.com/in/mohamud-sheikh-ali-45b284276
+
